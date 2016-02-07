@@ -1,0 +1,15 @@
+{
+  "name": "mern-stack-tutorial",
+  "version": "1.0.0",
+  "description": "learning react in the node context",
+  "main": "webapp.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-react": "^6.3.13",
+    "express": "^4.13.4"
+  }
+}

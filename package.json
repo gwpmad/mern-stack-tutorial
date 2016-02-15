@@ -4,12 +4,14 @@
   "description": "learning react in the node context",
   "main": "webapp.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node webapp.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "babel-preset-react": "^6.3.13",
+    "body-parser": "^1.15.0",
     "express": "^4.13.4"
   }
 }
